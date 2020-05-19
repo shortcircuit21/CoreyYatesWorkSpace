@@ -1,0 +1,16 @@
+@media only screen and (min-width: 2560px) {
+    .main-container {
+        .logo-container {
+            svg {
+                width: 1200px;
+                height: 1200px;
+                g {
+                    transform: translate(100px, -100px);
+                }
+            }
+        }
+        .user-container {
+            font-size: 6em;
+        }
+    }
+}
