@@ -3,13 +3,13 @@
   <a href="https://www.npmjs.com/package/welcome-screen" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/welcome-screen.svg">
   </a>
-  <a href="https://github.com/shortcircuit21/InvalidBrowser#readme" target="_blank">
+  <a href="https://github.com/shortcircuit21/CoreyYatesWorkSpace/tree/master/corey-yates-workspace/projects/welcome-screen#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/shortcircuit21/InvalidBrowser/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/shortcircuit21/CoreyYatesWorkSpace/tree/master/corey-yates-workspace/projects/welcome-screen/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/shortcircuit21/InvalidBrowser/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/shortcircuit21/CoreyYatesWorkSpace/tree/master/corey-yates-workspace/projects/welcome-screen/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/shortcircuit21/welcome-screen" />
   </a>
 </p>
@@ -26,7 +26,7 @@ npm install welcome-screen
 
 ```sh
 App.Module.ts Imports:
-InvalidBrowserModule.forRoot(environment, routeName)
+WelcomeScreenModule.forRoot(environment, routeName)
 
 Environment.ts
    applications: [
